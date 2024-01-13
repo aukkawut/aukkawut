@@ -14,4 +14,9 @@ If you want to contact me for whatever reason, which I hope you really need to c
 
 (Update): Oh yes, I need to update this page. Let's see what I have in my bag... Oh, no. I forgot my email in my office again. Sorry, but next time I will definitely not forgot to bring my email with me.
 
+(Update): Why I keep forgetting to add the email here. Where did I leave that? Let's see... grep my_email... it return nothing, maybe it need to be recursive... hmm. It returns "my_email: (null)". Weird, did not know that email without @ can functioning. Anyways, I will put it here.
+
+`my_email: (null)`
+
+there we go! 
 
