@@ -18,5 +18,5 @@ If you want to contact me for whatever reason, which I hope you really need to c
 
 `my_email: (null)`
 
-there we go! Definitely there is no flag for CTF or anything here. Surely this is not a CTF. 
+there we go! Definitely there is no flag for CTF or anything here. Surely this is not a CTF.
 
