@@ -2,9 +2,9 @@
 
 I don't think you are supposed to be here but welcome. Not that I don't want you here but you might better not stay here. There is nothing useful here. You can leave and do something productive. Maybe take some rest. Still here? Ok then.
 
-My name is Aukkawut Ammartayakun. I'm an undergraduate student at Worcester Polytechnic Institute (WPI) majoring data science.
+My name is Aukkawut Ammartayakun. I'm a Ph.D student in Data Science and Engineering at University of Tennessee, Knoxville (UTK).
 
-More information on [https://users.wpi.edu/~aammartayakun](https://users.wpi.edu/~aammartayakun) which surprisingly, will redirect you to my github site. 
+More information on [https://aukkawut.github.io](https://aukkawut.github.io) which surprisingly, will redirect you to my github site. 
 
 I work on a lot on the machine learning related stuff. Partly because it is in the trending and I need to make money. However, the main goal is to satisfy my need to understand things. 
 
